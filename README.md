@@ -1,2 +1,2 @@
 # Machine-Learning
-You will find here all the ML algorithms I implemented
+This folder contains some ML algorithms I implemented
